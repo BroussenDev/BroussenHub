@@ -1,1 +1,35 @@
+# 🚀 Broussen Hub
 
+Le launcher de jeux ultime, conçu pour centraliser et gérer votre bibliothèque personnelle avec élégance et fluidité.
+
+---
+
+## ⚠️ Avertissement & Non-Responsabilité (Disclaimer)
+
+> **Broussen Hub** est un outil open-source de gestion de bibliothèque et de centralisation d'applications développé à des fins personnelles et utilitaires. 
+> 
+> * **Rôle du logiciel :** Broussen Hub agit uniquement comme une interface utilisateur et un agrégateur. L'application se contente d'interagir avec des sources ou des sites tiers accessibles publiquement pour faciliter le téléchargement et le lancement de vos jeux.
+> * **Responsabilité de l'utilisateur :** Les développeurs de Broussen Hub ne sont en aucun cas responsables du contenu téléchargé, hébergé ou manipulé via l'application. Il incombe entièrement à l'utilisateur de s'assurer qu'il respecte les lois en vigueur dans son pays, ainsi que les conditions d'utilisation des plateformes et des sources tierces qu'il consulte.
+
+---
+
+## ✨ Fonctionnalités principales
+
+* 🎨 **Interface moderne :** Un design sombre, épuré et inspiré des meilleurs standards de l'industrie, avec un écran de démarrage dynamique.
+* 📦 **Auto-Updater natif :** Mises à jour automatiques et transparentes gérées directement depuis le launcher.
+* 🎮 **Gestion centralisée :** Retrouvez tous vos jeux et vos exécutables préférés au même endroit.
+* 💬 **Discord RPC :** Partagez votre activité de jeu en temps réel avec vos amis sur Discord.
+
+---
+
+## 🛠️ Technologies
+
+* **Electron** (Framework de bureau)
+* **HTML5 / CSS3 / JavaScript** (Interface)
+* **Electron-Updater** (Système de mise à jour)
+
+---
+
+## 📝 Licence
+
+Ce projet est distribué sous licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
